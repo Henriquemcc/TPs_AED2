@@ -1,3 +1,5 @@
+[English Version](https://github.com/Henriquemcc/TPs_AED2/blob/master/README.EN.md)
+
 # Trabalhos Práticos - Algoritmos e Estruturas de Dados II
 Trabalhos Práticos da matéria Algoritmos e Estruturas de Dados II do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais.
 
